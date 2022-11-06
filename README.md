@@ -6,10 +6,10 @@
 ### <div align="center">I'm Lucas, a full-stack developer 👨‍💻 looking for new job opportunities 🚀</div>  
   
 
-- 🔭 I’m currently working on two personal projects.
+- 🔭 I’m currently working on two personal projects with Ruby on Rails, Next.js and more.
   
 
-- 🌱 I’m currently learning TypeScript and Node.js  
+- 🌱 I’m currently learning TypeScript and Next.js  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
