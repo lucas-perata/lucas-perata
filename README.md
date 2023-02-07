@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Lucas, a full-stack developer 👨‍💻 looking for new job opportunities 🚀</div>  
+### <div align="center">I'm Lucas, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on two personal projects with Ruby on Rails, Next.js and more.
+- 🔭 I’m currently working on one personal projects with Ruby on Rails.
   
 
 - 🌱 I’m currently learning TypeScript and Next.js  
