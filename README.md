@@ -22,8 +22,8 @@
 
 <div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-perata&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-perata&show_icons=true&theme=radical)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucas-perata&layout=compact&show_icons=true&theme=radical)](https://github.com/lucas-perata/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-perata&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucas-perata&show_icons=true&theme=radical&langs_count=3&hide=html)](https://github.com/lucas-perata/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-perata&show_icons=true&theme=radical)](https://git.io/streak-stats) 
 
   </div>
   
