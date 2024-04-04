@@ -6,10 +6,10 @@
 # <div align="center">I'm Lucas, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on one MVC WEB APP with .NET CORE and a .NET CORE API + Angular
+- 🔭 I’m currently working on an app with .NET + Next.js and TS 
   
 
-- 🌱 I’m currently learning TypeScript, Angular and C# (.NET CORE)  
+- 🌱 I’m currently learning about algorithms and low level with Rust
   
 
 - ⚡ Fun fact: I use tabs over spaces  
