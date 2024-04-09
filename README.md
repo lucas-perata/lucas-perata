@@ -18,10 +18,12 @@
   
 <br/>  
 
-<a href="https://github.com/lucas-perata">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<div align="center">
+  <a align="center" href="https://github.com/lucas-perata">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-perata&layout=donut&langs_count=8" />
 </a>
-  
+</div>
+
   ## Contact Me💻
 
 <div align="center">
