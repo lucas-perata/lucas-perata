@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Lucas, a full-stack developer 👨‍💻</div>  
+# <div align="center">I'm Lucas 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on an app with .NET + Next.js and TS 
