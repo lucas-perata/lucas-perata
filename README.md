@@ -4,15 +4,6 @@
   
 
 # <div align="center">I'm Lucas 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working on an app with .NET + Next.js and TS 
-  
-
-- 🌱 I’m currently learning about algorithms and low level programming with Rust
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
 
 <br/>  
   
