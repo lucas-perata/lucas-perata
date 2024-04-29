@@ -11,7 +11,7 @@
 
 <div align="center">
   <a align="center" href="https://github.com/lucas-perata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-perata&layout=donut&langs_count=8&hide=css,html, dockerfile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-perata&layout=donut&langs_count=8&hide=css,html,dockerfile" />
 </a>
 </div>
 
